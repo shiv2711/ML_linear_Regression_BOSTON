@@ -156,4 +156,4 @@ print(Y_test.shape)
  
 Hope you enjoy it :heart:.
 
-PRFILE : [:snowman:](https://github.com/shiv2711)
+PROFILE : [:snowman:](https://github.com/shiv2711)
